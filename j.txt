@@ -1,1 +1,3 @@
 hi add me up
+write some notes
+in git 
