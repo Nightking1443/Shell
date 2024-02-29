@@ -3,3 +3,5 @@ write some notes
 in git 
 Delete files
 act like a coder
+areact to a tool
+move to the new website
